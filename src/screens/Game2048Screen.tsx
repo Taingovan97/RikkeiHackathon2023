@@ -41,7 +41,7 @@ const styles = StyleSheet.create({
     flex: 1,
     maxWidth: 600,
     margin: 'auto',
-    padding: 20,
+    // padding: 20,
     fontSize: 16,
     // Additional styles if needed
   },
